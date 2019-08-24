@@ -1,0 +1,7 @@
+Observable trends in the Pyber data:
+
+1. Urban cities consistently had the highest stats in regards to number of rides, total fares, etc.
+
+2. The greater the number of rides in each specific city type, the lower the price of the fares were.
+
+3. Rural city types had a larger fare average than suburban or urban city types. 
